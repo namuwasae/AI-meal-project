@@ -27,10 +27,10 @@ AI-based meal planning system for institutional foodservice
 ---
 
 ## ⚙️ 개발 환경 / 사용하고자 하는 툴
-프론트엔드: Next.js (React 기반)
-백엔드: Spring Boot (Java 기반)
-데이터베이스: MySQL
-AI 모델: Python (TensorFlow 활용)
-배포 환경: AWS 또는 기타 클라우드 서비스
-버전 관리: GitHub
+- 프론트엔드: Next.js (React 기반)
+- 백엔드: Spring Boot (Java 기반)
+- 데이터베이스: MySQL
+- AI 모델: Python (TensorFlow 활용)
+- 배포 환경: AWS 또는 기타 클라우드 서비스
+- 버전 관리: GitHub
 
